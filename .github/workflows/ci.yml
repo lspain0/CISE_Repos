@@ -1,6 +1,6 @@
 
 name: CI_action
-working-directory: ./temp
+
 
 on:
   push:
